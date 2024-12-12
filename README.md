@@ -43,7 +43,7 @@ The E-Mart Management System is a comprehensive application designed to streamli
 ### Steps to Install
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/e-mart-management-system.git
+   git clone https://github.com/TusharFodse/StoreManagement.git
    ```
 
 2. Navigate to the project directory:
