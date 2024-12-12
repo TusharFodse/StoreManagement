@@ -1,0 +1,15 @@
+
+		       Welcome to E-Mart Mall
+
+ Bill Number : 2737
+ Customer Name : 
+ Customer ID : 
+ Phone No. 1 : 
+ Phone No. 2 : 
+
+====================================================
+ Product		Product		Quantity		Price of 
+   ID.  		Name.  		        		 Product 
+        		       				(1 Quantity)
+====================================================
+
